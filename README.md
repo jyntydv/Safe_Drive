@@ -1,7 +1,7 @@
 
 ## Accident Prevention System
 
-Accident Prevention System made by browserbased models using tensorflow.js.
+> Accident Prevention System made by browserbased models using tensorflow.js.
 
 The problem Accident Prevention System solves - 
 
@@ -13,13 +13,13 @@ My goal is to introduce Artificial intelligence to solve this problem and create
 
 These are the technologies used in this project:
 
-Bootstrap 3 or 4
+* Bootstrap 3 or 4
 
-HTML 
+* HTML 
 
-Javascript
+* Javascript
 
-CSS
+* CSS
 
-Tensorflow.js 2.0.0
+* Tensorflow.js 2.0.0
 
